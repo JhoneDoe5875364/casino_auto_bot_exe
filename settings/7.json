@@ -1,0 +1,19 @@
+{
+  "Formats": [],
+  "BetAmounts": {
+    "0": [],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": []
+  },
+  "MatrixCells": null,
+  "MatrixRowRules": null,
+  "ExceptionFormats": null,
+  "RoomGateFormats": null,
+  "Limits": null,
+  "RoomCooldown": null,
+  "StrategyChains": null
+}

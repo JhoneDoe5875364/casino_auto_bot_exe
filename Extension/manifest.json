@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "PragmaticBot Connector",
+  "version": "1.0",
+  "description": "PragmaticBot - Pragmatic Play WebSocket 캡처",
+  "permissions": [],
+  "host_permissions": ["*://*/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["inject.js"],
+      "run_at": "document_start",
+      "all_frames": true,
+      "world": "MAIN"
+    },
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ]
+}

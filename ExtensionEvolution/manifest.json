@@ -1,0 +1,54 @@
+{
+  "manifest_version": 3,
+  "name": "PragmaticBot Evolution Connector",
+  "version": "1.0",
+  "description": "PragmaticBot - Evolution 라이브 바카라 복호화 평문 캡처/전달 (기존 Pragmatic 익스텐션과 독립)",
+  "permissions": [],
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "inject.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true,
+      "world": "MAIN"
+    },
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    },
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "bet_send.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true,
+      "world": "MAIN"
+    },
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "bet_bridge.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ]
+}

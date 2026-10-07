@@ -1,0 +1,628 @@
+{
+  "Formats": [
+    {
+      "Number": 1,
+      "Text": "p-p"
+    },
+    {
+      "Number": 2,
+      "Text": "b-p"
+    },
+    {
+      "Number": 3,
+      "Text": ""
+    },
+    {
+      "Number": 4,
+      "Text": ""
+    },
+    {
+      "Number": 5,
+      "Text": ""
+    },
+    {
+      "Number": 6,
+      "Text": ""
+    },
+    {
+      "Number": 7,
+      "Text": ""
+    },
+    {
+      "Number": 8,
+      "Text": ""
+    },
+    {
+      "Number": 9,
+      "Text": ""
+    },
+    {
+      "Number": 10,
+      "Text": ""
+    },
+    {
+      "Number": 11,
+      "Text": ""
+    },
+    {
+      "Number": 12,
+      "Text": ""
+    },
+    {
+      "Number": 13,
+      "Text": ""
+    },
+    {
+      "Number": 14,
+      "Text": ""
+    },
+    {
+      "Number": 15,
+      "Text": ""
+    },
+    {
+      "Number": 16,
+      "Text": ""
+    },
+    {
+      "Number": 17,
+      "Text": ""
+    },
+    {
+      "Number": 18,
+      "Text": ""
+    },
+    {
+      "Number": 19,
+      "Text": ""
+    },
+    {
+      "Number": 20,
+      "Text": ""
+    },
+    {
+      "Number": 21,
+      "Text": ""
+    },
+    {
+      "Number": 22,
+      "Text": ""
+    },
+    {
+      "Number": 23,
+      "Text": ""
+    },
+    {
+      "Number": 24,
+      "Text": ""
+    },
+    {
+      "Number": 25,
+      "Text": ""
+    },
+    {
+      "Number": 26,
+      "Text": ""
+    },
+    {
+      "Number": 27,
+      "Text": ""
+    },
+    {
+      "Number": 28,
+      "Text": ""
+    },
+    {
+      "Number": 29,
+      "Text": ""
+    },
+    {
+      "Number": 30,
+      "Text": ""
+    },
+    {
+      "Number": 31,
+      "Text": ""
+    },
+    {
+      "Number": 32,
+      "Text": ""
+    },
+    {
+      "Number": 33,
+      "Text": ""
+    },
+    {
+      "Number": 34,
+      "Text": ""
+    },
+    {
+      "Number": 35,
+      "Text": ""
+    },
+    {
+      "Number": 36,
+      "Text": ""
+    },
+    {
+      "Number": 37,
+      "Text": ""
+    },
+    {
+      "Number": 38,
+      "Text": ""
+    },
+    {
+      "Number": 39,
+      "Text": ""
+    },
+    {
+      "Number": 40,
+      "Text": ""
+    },
+    {
+      "Number": 41,
+      "Text": ""
+    },
+    {
+      "Number": 42,
+      "Text": ""
+    },
+    {
+      "Number": 43,
+      "Text": ""
+    },
+    {
+      "Number": 44,
+      "Text": ""
+    },
+    {
+      "Number": 45,
+      "Text": ""
+    },
+    {
+      "Number": 46,
+      "Text": ""
+    },
+    {
+      "Number": 47,
+      "Text": ""
+    },
+    {
+      "Number": 48,
+      "Text": ""
+    },
+    {
+      "Number": 49,
+      "Text": ""
+    },
+    {
+      "Number": 50,
+      "Text": ""
+    }
+  ],
+  "BetAmounts": {
+    "0": [
+      {
+        "Number": 1,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 2,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 3,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 4,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 5,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 6,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 7,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 8,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 9,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 10,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 11,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 12,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 13,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 14,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 15,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 16,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 17,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 18,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 19,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 20,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 21,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 22,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 23,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 24,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 25,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 26,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 27,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 28,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 29,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 30,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 31,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 32,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 33,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 34,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 35,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 36,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 37,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 38,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 39,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 40,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 41,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 42,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 43,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 44,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 45,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 46,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 47,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 48,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 49,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      },
+      {
+        "Number": 50,
+        "Amount": null,
+        "BetAmountType": 0,
+        "BettingMethod": null
+      }
+    ],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [
+      {
+        "Number": 1,
+        "Amount": 10000.00,
+        "BetAmountType": 4,
+        "BettingMethod": null
+      }
+    ],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": [
+      {
+        "Number": 1,
+        "Amount": 0.00,
+        "BetAmountType": 10,
+        "BettingMethod": 5
+      },
+      {
+        "Number": 2,
+        "Amount": 0.00,
+        "BetAmountType": 10,
+        "BettingMethod": 0
+      }
+    ],
+    "15": [
+      {
+        "Number": 1,
+        "Amount": 1000,
+        "BetAmountType": 15,
+        "BettingMethod": 7
+      },
+      {
+        "Number": 3,
+        "Amount": 1000,
+        "BetAmountType": 15,
+        "BettingMethod": null
+      },
+      {
+        "Number": 4,
+        "Amount": 100,
+        "BetAmountType": 15,
+        "BettingMethod": null
+      },
+      {
+        "Number": 5,
+        "Amount": 2,
+        "BetAmountType": 15,
+        "BettingMethod": null
+      },
+      {
+        "Number": 6,
+        "Amount": 8,
+        "BetAmountType": 15,
+        "BettingMethod": null
+      }
+    ]
+  },
+  "MatrixCells": {
+    "11": [],
+    "12": [],
+    "13": [],
+    "14": []
+  },
+  "MatrixRowRules": {
+    "11": [],
+    "12": [],
+    "13": [],
+    "14": []
+  },
+  "ExceptionFormats": [],
+  "RoomGateFormats": [],
+  "Limits": {
+    "UpperLimitPercent": null,
+    "IsUpperLimitEnabled": false,
+    "LowerLimitPercent": null,
+    "IsLowerLimitEnabled": false,
+    "MaxActiveBettingRooms": null,
+    "UpperLimitMode": 0,
+    "TargetProfitAmount": null,
+    "IsTargetCycleEnabled": false,
+    "RestIntervalMinutes": null,
+    "SessionCount": null,
+    "KeepAliveTableId": null
+  },
+  "RoomCooldown": {
+    "IsEnabled": false,
+    "LossThreshold": 5,
+    "CooldownMinutes": 3
+  },
+  "StrategyChains": [
+    {
+      "Id": 1,
+      "Name": "test",
+      "CompletionAction": 1,
+      "IsActive": true,
+      "Steps": [
+        {
+          "Order": 1,
+          "StrategyType": 0,
+          "MaxStepTransition": 5,
+          "ConsecutiveLossTransition": 5,
+          "LossAmountTransition": 2000000.00,
+          "StrategyCompleteTransition": true
+        },
+        {
+          "Order": 2,
+          "StrategyType": 0,
+          "MaxStepTransition": 5,
+          "ConsecutiveLossTransition": 5,
+          "LossAmountTransition": 2000000.00,
+          "StrategyCompleteTransition": true
+        }
+      ]
+    }
+  ]
+}

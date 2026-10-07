@@ -1,0 +1,49 @@
+{
+  "Formats": [],
+  "BetAmounts": {
+    "0": [],
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "MatrixCells": {
+    "11": [],
+    "12": [],
+    "13": [],
+    "14": []
+  },
+  "MatrixRowRules": {
+    "11": [],
+    "12": [],
+    "13": [],
+    "14": []
+  },
+  "ExceptionFormats": [],
+  "RoomGateFormats": [],
+  "Limits": {
+    "UpperLimitPercent": null,
+    "IsUpperLimitEnabled": false,
+    "LowerLimitPercent": null,
+    "IsLowerLimitEnabled": false,
+    "MaxActiveBettingRooms": null,
+    "UpperLimitMode": 0,
+    "TargetProfitAmount": null,
+    "IsTargetCycleEnabled": false,
+    "RestIntervalMinutes": null,
+    "SessionCount": null,
+    "KeepAliveTableId": null
+  },
+  "RoomCooldown": {
+    "IsEnabled": false,
+    "LossThreshold": 5,
+    "CooldownMinutes": 3
+  },
+  "StrategyChains": []
+}
