@@ -542,6 +542,12 @@
         "BettingMethod": 7
       },
       {
+        "Number": 2,
+        "Amount": 64000,
+        "BetAmountType": 15,
+        "BettingMethod": null
+      },
+      {
         "Number": 3,
         "Amount": 1000,
         "BetAmountType": 15,
